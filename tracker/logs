@@ -1,0 +1,31 @@
+Log file created in Tracker Machine
+connection established
+connection established
+Request from client
+upload_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8,127.0.0.1:8002,/home/aj/Downloads/a1.jpg
+File successfully uploaded
+Request from client
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+File found
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg
+Request from client
+upload_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8,127.0.0.1:8001,/home/aj/Music/s.jpg
+File successfully upload_filed
+Request from client
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+File found
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Request from client
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+File found
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Request from client
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+File found
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Request from client
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+File found
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Request from client
+logout,127.0.0.1:8002

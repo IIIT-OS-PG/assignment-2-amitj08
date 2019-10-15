@@ -1,0 +1,99 @@
+Log file created in Peer Machine
+Connection established
+show_downloads
+upload_file /home/aj/Downloads/a1.jpg a1.jpg
+Client wants to upload_file something
+1d3277a04543c5d36ae63e142f408c9623b3cbea383f203b14e20caefe5f9f776001b83d09992065d2b1d3e15398a9985698d5b974e3c35e90993dee263dbcb43e70e9b4a0f32ccf254d56fb66397c1cbc62fa3eacec01c4145986dfa0b15e6cc96fce596fdff41ce5deda97f7c58918d728caf5a21c4f253d0076767acd4c70441f0f05f68390a8fd62381be2dd88bc4437ffa85a547d55b0fbbffbc9dc798b658723a5e2bd6504055f
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+upload_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8,127.0.0.1:8002,/home/aj/Downloads/a1.jpg
+Successfully uploaded
+download_file a1.jpg /home/aj/Music/s.jpg
+Client wants file from server
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+Client download_file reply
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg
+Connection established while making connection with server
+connection established -- server
+client send request to server for file
+Peer gets request from client
+/home/aj/Downloads/a1.jpg
+/home/aj/Downloads/a1.jpg
+Peer sending file to client
+File sent successfully -- server
+client get file from server
+/home/aj/Music/s.jpg
+1d3277a04543c5d36ae63e142f408c9623b3cbea383f203b14e20caefe5f9f776001b83d09992065d2b1d3e15398a9985698d5b974e3c35e90993dee263dbcb43e70e9b4a0f32ccf254d56fb66397c1cbc62fa3eacec01c4145986dfa0b15e6cc96fce596fdff41ce5deda97f7c58918d728caf5a21c4f253d0076767acd4c70441f0f05f68390a8fd62381be2dd88bc4437ffa85a547d55b0fbbffbc9dc798b658723a5e2bd6504055f
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+upload_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8,127.0.0.1:8001,/home/aj/Music/s.jpg
+upload_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8,127.0.0.1:8001,/home/aj/Music/s.jpg
+Successfully upload_filed
+download_file a1.jpg home/aj/Music
+Client wants file from server
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+Client download_file reply
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Connection established while making connection with server
+client send request to server for file
+connection established -- server
+Peer gets request from client
+/home/aj/Downloads/a1.jpg
+/home/aj/Downloads/a1.jpg
+Peer sending file to client
+File sent successfully -- server
+client get file from server
+home/aj/Music
+File does not exit
+download_file a1.jpg home/aj/Music
+Client wants file from server
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+Client download_file reply
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Connection established while making connection with server
+connection established -- server
+client send request to server for file
+Peer gets request from client
+/home/aj/Downloads/a1.jpg
+/home/aj/Downloads/a1.jpg
+Peer sending file to client
+File sent successfully -- server
+client get file from server
+home/aj/Music
+File does not exit
+download_file a1.jpg home/aj/Music/w.jpg
+Client wants file from server
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+Client download_file reply
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Connection established while making connection with server
+connection established -- server
+client send request to server for file
+Peer gets request from client
+/home/aj/Downloads/a1.jpg
+/home/aj/Downloads/a1.jpg
+Peer sending file to client
+File sent successfully -- server
+client get file from server
+home/aj/Music/w.jpg
+File does not exit
+upload_file /home/aj/Downloads/a1.jpg a1.jpg 
+Client wants to upload_file something
+Invalid upload_file command
+download_file a1.jpg home/aj/Music/w.jpg
+Client wants file from server
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+download_file,b12179e0336a4a069d4556a07aafd2a6bd42a8b8
+Client download_file reply
+127.0.0.1:8002@/home/aj/Downloads/a1.jpg,127.0.0.1:8001@/home/aj/Music/s.jpg
+Connection failed while making Connection with server
+logout
+client wants to close connection
+connection closed
